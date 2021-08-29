@@ -1,0 +1,9 @@
+
+.section{
+    border-right: 1px solid #777 ;
+    color:
+}
+
+.section:last-child{
+    border: none;
+}
